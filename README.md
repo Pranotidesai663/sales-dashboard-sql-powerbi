@@ -52,7 +52,7 @@ The goal was to design an interactive **Sales Dashboard** that provides insights
 ---
 
 ## 📊 Dashboard Preview  
-![Sales Dashboard](sales.png)  
+![Sales Dashboard](https://github.com/Pranotidesai663/sales-dashboard-sql-powerbi/blob/6c6234f498c5b5e71a120c4c57191945c6ea4b2f/Sales.png)  
 
 ---
 
