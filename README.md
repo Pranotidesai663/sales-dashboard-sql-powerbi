@@ -1,6 +1,3 @@
-# sales-dashboard-sql-powerbi
-Interactive Sales Dashboard built with SQL and Power BI to analyze revenue, customers, products, and sales trends for data-driven decision making.
-
 # 📊 Sales Dashboard Project  
 
 ## 📝 Overview  
